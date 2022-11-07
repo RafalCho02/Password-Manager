@@ -1,5 +1,6 @@
 # Password-Manager
-This program is really useful when you have a lot of profiles on different websites
+Password-Manager is really useful when you have a lot of profiles on different websites. It will help you organize your passwords, and find them when you will forget them.
+
 
 What does the program look like:
 
